@@ -1,0 +1,1 @@
+Nothing, this file create to prevent folder images file is hidden. Images shall be update in this folder later.
